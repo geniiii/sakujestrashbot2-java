@@ -1,0 +1,12 @@
+{
+    "consumer_key"   : "placeholder",
+    "consumer_secret": "placeholder",
+    "access_key"     : "placeholder",
+    "access_secret"  : "placeholder",
+    "words_start"    : [
+        "ти смучат ", "вие смучат ", "ти смучеш ", "ти суча ", "Можете смучат ", "U СУК ", "ти си гаден ", "ти ставаш "
+    ],
+    "words_end"      : [
+        " dikis", " Dikis"
+    ]
+}
